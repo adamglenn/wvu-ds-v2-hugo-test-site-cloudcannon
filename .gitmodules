@@ -1,0 +1,3 @@
+[submodule "themes/wvu-ds-v2-hugo"]
+	path = themes/wvu-ds-v2-hugo
+	url = https://github.com/adamglenn/wvu-ds-v2-hugo.git
