@@ -7,11 +7,7 @@
     "@meom/navigation": "1.0.5",
     "parvus": "~2.4.0"
   },
-<<<<<<< HEAD
-  "description": "WVU Design System v2 Base Hugo Test Site",
-=======
   "description": "WVU Design System v2 Base Hugo Test Site Cloudcannon",
->>>>>>> b265ed1 (Adding some content.)
   "devDependencies": {},
   "engines": {
     "node": ">=18.12.1",
